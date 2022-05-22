@@ -15,6 +15,7 @@ namespace HelloWorld_stud
               Console.WriteLine("Hello Read!");
               System.Console.WriteLine("Hello World000!");*/
             Console.ReadLine();
+            Console.WriteLine("kek");
         }
     }
 }
